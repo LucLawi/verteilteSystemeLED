@@ -24,5 +24,5 @@ Dilan Yildirim
 * [H2](http://h2database.com/html/main.html) - Database
 * [Maven](https://maven.apache.org/) - Build tool
 * [Gradle](https://gradle.org) - Build tool
-* [Eclipse](https://www.eclipse.org) - Program tool 
-* Eureka, Zuul -  spring cloud services
+* [Eclipse](https://www.eclipse.org) - Programming tool 
+* Eureka, OpenFeign -  spring cloud services, Balance Loader
